@@ -1,0 +1,19 @@
+openai
+langchain
+chromadb
+unstructured
+# pip install "unstructured[pdf]"
+InstructorEmbedding
+# pip install -U sentence-transformers==2.2.2
+sentence_transformers
+streamlit
+pymupdf
+
+langchain_openai
+
+llama-cpp-python
+llama-cpp-python[server]
+psutil
+
+pip install langchain-groq
+# pip install --upgrade langchain langchain-community langchain-openai langchain-text-splitters
