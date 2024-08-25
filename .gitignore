@@ -6,3 +6,4 @@ chroma/
 models/
 data/
 *.log
+requirements-install.txt
